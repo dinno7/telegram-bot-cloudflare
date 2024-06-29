@@ -3,8 +3,7 @@
 Run your telegram bot free on cloudflare workers by using the power of [Hono](https://hono.dev/) and
 [grammY](https://grammy.dev/)
 
---- [Telegram bot in Cloudflare worker](#telegram-bot-in-cloudflare-worker)
-
+## Table of contents
 - [Telegram bot in Cloudflare worker](#telegram-bot-in-cloudflare-worker)
   - [Run your bot](#run-your-bot)
     - [Create an account in cloudflare](#create-an-account-in-cloudflare)
