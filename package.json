@@ -1,0 +1,25 @@
+{
+	"name": "telegram-bot-cloudflare",
+	"version": "0.1.0",
+	"author": {
+		"name": "dinno",
+		"email": "tahadlrb7@gmail.com"
+	},
+	"devDependencies": {
+		"@cloudflare/workers-types": "^4.20240314.0",
+		"@types/node": "^20.11.30",
+		"ts-node": "^10.9.2",
+		"typescript": "^5.4.3",
+		"wrangler": "3.34.2"
+	},
+	"private": true,
+	"scripts": {
+		"start": "wrangler dev",
+		"deploy": "wrangler deploy",
+		"log": "wrangler tail"
+	},
+	"dependencies": {
+		"grammy": "^1.21.1",
+		"hono": "^4.1.3"
+	}
+}

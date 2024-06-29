@@ -1,0 +1,8 @@
+name = "YOUR_APP_NAME_IN_CLOUDFLARE"
+main = "src/index.ts"
+compatibility_date = "2024-03-18"
+node_compat = true
+
+[vars]
+BOT_TOKEN = "YOU_TELEGRAM_BOT_TOKEN"
+SECRET_TOKEN = "TELEGRAM_SECRET_TOKEN_BYTES" #Random bytes to access with telegram
